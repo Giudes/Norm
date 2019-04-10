@@ -1,0 +1,16 @@
+[
+{
+  "modid": "norm",
+  "name": "Norm Mod",
+  "description": "Not Very Normal.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Giudon"],
+  "credits": "Allan, Please add the credits",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
